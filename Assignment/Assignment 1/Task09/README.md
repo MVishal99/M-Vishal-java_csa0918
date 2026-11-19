@@ -1,0 +1,2 @@
+# Task 9 – Introduce abstraction
+Run `AbstractionDemo.java`. AbstractVehicle stores common state and constructor logic and requires subclasses to implement parkingFee. Payable expresses an independent capability; classes can implement multiple interfaces while extending only one class.

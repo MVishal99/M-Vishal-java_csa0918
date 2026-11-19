@@ -1,0 +1,2 @@
+# Task 12 – Day-4 design challenge
+Run AdaptiveParkingDemo.java. The design introduces EBike, DeliveryVan and OneDayPass extension points and supports five unequal floor capacities. The delivery van fee logic splits the stay into minute intervals and applies double car rate during 09:00–17:00. Add tests crossing both time boundaries and record actual results.

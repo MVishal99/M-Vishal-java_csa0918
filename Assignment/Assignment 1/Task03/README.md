@@ -1,0 +1,2 @@
+# Task 3 – Control logic and pseudocode implementation
+Compile and run `ParkingFacility.java`. Allocation scans floors and slots and stops at the first null slot; when all slots are occupied it returns null. Release validates floor and slot bounds and refuses an already-free slot. Expected output is the exact sequence printed by the assignment's sample main method: [0, 0], [0, 1], [1, 0], null, true false false, [0, 1].

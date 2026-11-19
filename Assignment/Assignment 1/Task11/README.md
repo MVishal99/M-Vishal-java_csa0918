@@ -1,0 +1,2 @@
+# Task 11 – Implement, test and defend the design
+Run ParkingSystem.java. It demonstrates entry, exit, first-free-slot allocation and duplicate registration rejection. The active HashMap provides average O(1) registration lookup on exit. Extend tests with fee boundary cases, unknown vehicle types and a hand-calculated daily total; record actual results.

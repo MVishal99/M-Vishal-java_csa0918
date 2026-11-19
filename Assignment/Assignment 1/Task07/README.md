@@ -1,0 +1,2 @@
+# Task 7 – Override and specialise behaviour
+Run `VehicleEqualityDemo.java`. The example validates duration and overrides equals, hashCode and toString. Equal vehicles are defined by registration number, so equal objects have the same hash code. In the full hierarchy, subclasses override hourlyRate/calculateFee rather than adding a growing type switch.

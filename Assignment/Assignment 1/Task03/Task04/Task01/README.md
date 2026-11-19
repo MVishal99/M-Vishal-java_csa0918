@@ -1,0 +1,2 @@
+# Task 1 – Understand the problem and identify objects
+Run `javac ParkingModel.java && java ParkingModel`. The model separates Vehicle, ParkingSlot and ParkingTicket responsibilities. Inputs include registration, vehicle type and entry/exit events; outputs include allocated slot, ticket and fee. Rules: a slot has at most one occupant, registrations/ticket numbers are unique, and only a valid occupied slot can be released. The sample prints ticket number, registration and whether the slot is free.

@@ -1,0 +1,2 @@
+# Task 6 – Inheritance hierarchy
+Compile and run `VehicleHierarchy.java`. ElectricCar extends Car, which extends abstract Vehicle (multilevel inheritance). The trace demonstrates constructor order: Vehicle, Car, ElectricCar. A composition alternative would keep Vehicle and assign a VehicleType/rate strategy object.

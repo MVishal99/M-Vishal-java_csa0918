@@ -1,0 +1,2 @@
+# Task 10 – Packages and encapsulation
+Run `EncapsulationDemo.java`. State is private; public methods validate before changing it. In a multi-file version, model classes belong in parking.model, business operations in parking.service and the entry point in parking.app. Compare Integer values with equals or intValue, not wrapper-reference ==.

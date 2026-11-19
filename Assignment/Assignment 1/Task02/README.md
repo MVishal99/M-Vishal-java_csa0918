@@ -1,0 +1,2 @@
+# Task 2 – Choose the data representation
+Compile and run `DataRepresentationDemo.java`. A jagged array represents floors with different slot counts. Use int for slot indices/duration, String for registration, LocalDateTime for timestamps, and double or BigDecimal for currency. The example demonstrates why 61/60 with integer division gives 1 rather than the required 2 billable hours; (minutes+59)/60 avoids that error.

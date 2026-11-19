@@ -1,0 +1,2 @@
+# Task 5 – static members and object life cycle
+Run `TicketCounterDemo.java`. The counter belongs to the class, so all ParkingFacility instances share one unique ticket sequence. A ticket becomes eligible for garbage collection after no active collection, variable or other object references it; garbage collection timing is not guaranteed.

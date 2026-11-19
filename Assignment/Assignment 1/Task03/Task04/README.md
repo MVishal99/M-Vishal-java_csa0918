@@ -1,0 +1,2 @@
+# Task 4 – Classes, objects and constructors
+Run `javac ParkingTicket.java && java ParkingTicket`. The parameterized constructor validates mandatory state; the copy constructor delegates through this(...). Fields are final and private so the ticket cannot be partially initialized or modified after creation.
