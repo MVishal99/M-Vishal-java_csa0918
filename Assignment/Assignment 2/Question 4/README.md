@@ -1,0 +1,2 @@
+# Q4 – Choosing a Map for pharmacy inventory
+Run `PharmacyInventory.java`. HashMap supports average constant-time lookup without order guarantees, TreeMap sorts by key, and LinkedHashMap preserves insertion order. Extend to three data sizes and measure lookup/report times as required.

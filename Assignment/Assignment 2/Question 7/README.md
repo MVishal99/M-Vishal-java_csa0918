@@ -1,0 +1,2 @@
+# Q7 – Diagnose, redesign and validate
+This benchmark compares LinkedList and ArrayDeque for a FIFO workload. Run with increasing sizes and repeated trials. Use your observed evidence to diagnose a bottleneck and defend a redesign; do not claim measured improvements until you run it.

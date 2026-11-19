@@ -1,0 +1,2 @@
+# Q2 – ArrayList, LinkedList and ArrayDeque
+Run with sizes such as 1,000, 10,000 and 50,000. Compare indexed access, front insertion and queue end operations. Record repeated timings and explain the workload where each collection is appropriate.

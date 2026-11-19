@@ -1,0 +1,2 @@
+# Q3 – hashCode–equals contract
+Run `Attendance.java`. Expected output: `Unique students: 2`. Both equals and hashCode use registration number, satisfying the hash-based collection contract. Compare with a version that omits hashCode and record observed behaviour.

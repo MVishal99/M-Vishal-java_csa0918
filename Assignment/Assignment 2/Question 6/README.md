@@ -1,0 +1,2 @@
+# Q6 – Priority, order and fairness in a queue
+Expected treatment order: `Meena(S1) Kumar(S1) Lata(S2) Ravi(S3) John(S3) Asha(S5)`. Lower severity number is more urgent; an increasing arrival counter preserves FIFO among ties. Poll the PriorityQueue to display treatment order; printing it directly is not sorted.

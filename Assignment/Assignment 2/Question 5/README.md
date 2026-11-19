@@ -1,0 +1,2 @@
+# Q5 – Generic ranking component
+Expected output: `[Eagles(9,6), Bisons(9,4), Panthers(9,4), Cobras(6,1)]`. The generic Leaderboard sorts a defensive copy using points descending, goal difference descending, and name ascending. Compile and run LeaderboardDemo.java.
