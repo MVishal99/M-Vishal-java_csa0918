@@ -1,0 +1,2 @@
+# Q5 – Race conditions in a cinema seat-booking system
+Expected output: `Seats sold: 10`. The synchronized method makes check-then-book atomic. Compare with an unsynchronized version over 10 runs and record actual double-booking observations.

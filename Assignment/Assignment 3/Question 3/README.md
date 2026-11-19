@@ -1,0 +1,2 @@
+# Q3 – Resource safety, debugging and robust code
+Run ReportGenerator.java. Each input uses try-with-resources; a bad file is logged and processing continues. The output is written in a separate resource scope. Compare with manual close in a finally block and test a missing/corrupt file.

@@ -1,0 +1,2 @@
+# Q1 – Handling failure in a bank ATM simulation
+Run AtmWithdrawal.java. Tests include valid withdrawal, negative amount, non-numeric input and insufficient balance. The finally block runs on success and failure. Add missing card-reader file handling and a test table for the complete assignment.

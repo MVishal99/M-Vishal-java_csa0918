@@ -1,0 +1,2 @@
+# Q4 – Thread creation and life cycle
+Four scanner stations run concurrently. start() launches a thread, sleep() simulates work, join() waits for completion, and isAlive() checks status. Output completion order may vary but the total remains 40. Compile and run ScannerStations.java.

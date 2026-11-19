@@ -1,0 +1,2 @@
+# Q6 – Deadlock and inter-thread communication
+Expected output: `Sum of tokens collected: 210 (expected 210)`. The bounded buffer uses wait() in while loops under synchronization and notifyAll() after state changes. For wallet transfers, use a consistent account-lock ordering rule to prevent circular wait.

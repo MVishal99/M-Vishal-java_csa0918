@@ -1,0 +1,2 @@
+# Q7 – Concurrent, fault-tolerant result processor
+Run ResultProcessor.java using Java 11+. The sample processes a valid score, a malformed score and a missing file using a fixed ExecutorService, Callable-style tasks and Future results. A failure in one file is recorded without stopping the batch. Extend to 10,000 files and measure pool sizes 1, 2, 4 and 8.
